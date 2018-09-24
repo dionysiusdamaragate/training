@@ -205,3 +205,15 @@ git add
 git
 git commit -m "TrainingGit"
 git checkout develop
+git checkout -b pullgit
+git status
+git add -A
+git commit -m cobagit
+git checkout develop
+git checkout cobagit
+git checkout pullgit
+git pull --rebase origin develop
+git pull --rebase origin pullgit
+git pull --rebase origin
+git rebase develop
+exit
