@@ -217,3 +217,90 @@ git pull --rebase origin pullgit
 git pull --rebase origin
 git rebase develop
 exit
+git config
+git config --global user.name "Bramantyo Aryo W"
+git config --global user.email "bramantyo@icube.us"
+git config --list
+git add
+git add --help
+ls
+cd cloudpanel
+ls
+cd htdocs
+ls
+cd create
+delete create
+rmdir create
+ls
+ls -la
+rm -rf .git
+ls -la
+ls
+cd trainingmagento2.com
+ls
+cd ..
+rm -rf .git
+ls -la
+cd
+ls
+rm -rf.git
+ls -la
+cd cloudpanel
+rm -rf .git
+ls -la
+cd
+git status
+touch .gitignore
+git status
+git add .gitignore
+git status
+git add -A
+git status
+git reset calc.py
+git reset calc.py
+git status
+git reset
+git status
+git status
+git add -A
+git status
+git commit -m "Initial Commit"
+git status
+git log
+cd ..
+ls
+cd cloudpanel/
+cd home
+cd cloudpanel/
+ cd
+ls
+cd cloudpanel
+ls -la
+git clone ../remote_repo.git
+ls
+get remote -v
+git remote -v
+cd htdocs
+ls
+cd trainingmagento2.com
+ls
+cd
+ls
+ls -la
+git remote -v
+git branch -a
+git diff
+git status
+git status
+git branch 
+git checkout 'coba'
+git status
+git add -A
+git commit -m "YEAH"
+exit
+ls
+git push -u origin pullgit
+git branch -a
+git checkout master
+git pull origin 
+exit
